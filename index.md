@@ -10,7 +10,7 @@
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">
+      <img src="https://github.com/HanXuchang/io/blob/gh-pages/meme.jpg?raw=true" draggable="false" width="100%">
     </td>
   </tr>
 </table>
