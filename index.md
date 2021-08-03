@@ -11,7 +11,7 @@
       <p><a href="/index-en.md">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/HanXuchang/io/blob/gh-pages/meme.jpg?raw=true" draggable="false" width="100%">
+      <img src="https://github.com/HanXuchang/io/blob/gh-pages/me.jpg?raw=true" draggable="false" width="100%">
     </td>
   </tr>
 </table>
